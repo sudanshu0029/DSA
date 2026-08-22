@@ -44,4 +44,8 @@ DSA solved problems
 |  |
 | ------- |
 | [1109-corporate-flight-bookings](https://github.com/sudanshu0029/DSA/tree/master/1109-corporate-flight-bookings) |
+## String
+|  |
+| ------- |
+| [3340-check-balanced-string](https://github.com/sudanshu0029/DSA/tree/master/3340-check-balanced-string) |
 <!---LeetCode Topics End-->
