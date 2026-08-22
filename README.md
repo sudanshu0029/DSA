@@ -15,6 +15,7 @@ DSA solved problems
 ## Array
 |  |
 | ------- |
+| [0136-single-number](https://github.com/sudanshu0029/DSA/tree/master/0136-single-number) |
 | [1109-corporate-flight-bookings](https://github.com/sudanshu0029/DSA/tree/master/1109-corporate-flight-bookings) |
 | [1386-cinema-seat-allocation](https://github.com/sudanshu0029/DSA/tree/master/1386-cinema-seat-allocation) |
 | [1652-defuse-the-bomb](https://github.com/sudanshu0029/DSA/tree/master/1652-defuse-the-bomb) |
@@ -31,6 +32,7 @@ DSA solved problems
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/sudanshu0029/DSA/tree/master/0136-single-number) |
 | [1386-cinema-seat-allocation](https://github.com/sudanshu0029/DSA/tree/master/1386-cinema-seat-allocation) |
 ## Sliding Window
 |  |
