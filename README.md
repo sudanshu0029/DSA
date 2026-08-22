@@ -14,6 +14,7 @@ DSA solved problems
 ## Array
 |  |
 | ------- |
+| [1109-corporate-flight-bookings](https://github.com/sudanshu0029/DSA/tree/master/1109-corporate-flight-bookings) |
 | [1386-cinema-seat-allocation](https://github.com/sudanshu0029/DSA/tree/master/1386-cinema-seat-allocation) |
 | [1652-defuse-the-bomb](https://github.com/sudanshu0029/DSA/tree/master/1652-defuse-the-bomb) |
 ## Hash Table
@@ -32,4 +33,8 @@ DSA solved problems
 |  |
 | ------- |
 | [1652-defuse-the-bomb](https://github.com/sudanshu0029/DSA/tree/master/1652-defuse-the-bomb) |
+## Prefix Sum
+|  |
+| ------- |
+| [1109-corporate-flight-bookings](https://github.com/sudanshu0029/DSA/tree/master/1109-corporate-flight-bookings) |
 <!---LeetCode Topics End-->
