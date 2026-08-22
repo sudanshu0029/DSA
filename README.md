@@ -18,10 +18,12 @@ DSA solved problems
 | [1109-corporate-flight-bookings](https://github.com/sudanshu0029/DSA/tree/master/1109-corporate-flight-bookings) |
 | [1386-cinema-seat-allocation](https://github.com/sudanshu0029/DSA/tree/master/1386-cinema-seat-allocation) |
 | [1652-defuse-the-bomb](https://github.com/sudanshu0029/DSA/tree/master/1652-defuse-the-bomb) |
+| [2799-count-complete-subarrays-in-an-array](https://github.com/sudanshu0029/DSA/tree/master/2799-count-complete-subarrays-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/sudanshu0029/DSA/tree/master/1386-cinema-seat-allocation) |
+| [2799-count-complete-subarrays-in-an-array](https://github.com/sudanshu0029/DSA/tree/master/2799-count-complete-subarrays-in-an-array) |
 ## Greedy
 |  |
 | ------- |
@@ -34,6 +36,7 @@ DSA solved problems
 |  |
 | ------- |
 | [1652-defuse-the-bomb](https://github.com/sudanshu0029/DSA/tree/master/1652-defuse-the-bomb) |
+| [2799-count-complete-subarrays-in-an-array](https://github.com/sudanshu0029/DSA/tree/master/2799-count-complete-subarrays-in-an-array) |
 ## Prefix Sum
 |  |
 | ------- |
