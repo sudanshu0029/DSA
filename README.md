@@ -7,6 +7,7 @@ DSA solved problems
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/sudanshu0029/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/sudanshu0029/DSA/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Enumeration
 |  |
 | ------- |
