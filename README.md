@@ -22,6 +22,7 @@ DSA solved problems
 | [1386-cinema-seat-allocation](https://github.com/sudanshu0029/DSA/tree/master/1386-cinema-seat-allocation) |
 | [1652-defuse-the-bomb](https://github.com/sudanshu0029/DSA/tree/master/1652-defuse-the-bomb) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/sudanshu0029/DSA/tree/master/2799-count-complete-subarrays-in-an-array) |
+| [3925-concatenate-array-with-reverse](https://github.com/sudanshu0029/DSA/tree/master/3925-concatenate-array-with-reverse) |
 ## Hash Table
 |  |
 | ------- |
@@ -53,4 +54,8 @@ DSA solved problems
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sudanshu0029/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+## Simulation
+|  |
+| ------- |
+| [3925-concatenate-array-with-reverse](https://github.com/sudanshu0029/DSA/tree/master/3925-concatenate-array-with-reverse) |
 <!---LeetCode Topics End-->
