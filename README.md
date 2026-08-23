@@ -16,6 +16,7 @@ DSA solved problems
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/sudanshu0029/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0136-single-number](https://github.com/sudanshu0029/DSA/tree/master/0136-single-number) |
 | [1109-corporate-flight-bookings](https://github.com/sudanshu0029/DSA/tree/master/1109-corporate-flight-bookings) |
 | [1386-cinema-seat-allocation](https://github.com/sudanshu0029/DSA/tree/master/1386-cinema-seat-allocation) |
@@ -48,4 +49,8 @@ DSA solved problems
 |  |
 | ------- |
 | [3340-check-balanced-string](https://github.com/sudanshu0029/DSA/tree/master/3340-check-balanced-string) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/sudanshu0029/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
