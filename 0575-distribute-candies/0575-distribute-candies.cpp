@@ -2,9 +2,9 @@ class Solution {
 public:
     int distributeCandies(vector<int>& candyType) {
         int n = candyType.size();
-        unordered_map<int,int>map;
+        set<int>map;
         for(int i =0 ;i<n;i++){
-            map[candyType[i]]++;
+            map.insert(candyType[i]);
         }
         int m = map.size();
         if(m > n/2){
