@@ -22,6 +22,7 @@ DSA solved problems
 | [1109-corporate-flight-bookings](https://github.com/sudanshu0029/DSA/tree/master/1109-corporate-flight-bookings) |
 | [1386-cinema-seat-allocation](https://github.com/sudanshu0029/DSA/tree/master/1386-cinema-seat-allocation) |
 | [1652-defuse-the-bomb](https://github.com/sudanshu0029/DSA/tree/master/1652-defuse-the-bomb) |
+| [1748-sum-of-unique-elements](https://github.com/sudanshu0029/DSA/tree/master/1748-sum-of-unique-elements) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/sudanshu0029/DSA/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/sudanshu0029/DSA/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3925-concatenate-array-with-reverse](https://github.com/sudanshu0029/DSA/tree/master/3925-concatenate-array-with-reverse) |
@@ -30,6 +31,7 @@ DSA solved problems
 | ------- |
 | [0575-distribute-candies](https://github.com/sudanshu0029/DSA/tree/master/0575-distribute-candies) |
 | [1386-cinema-seat-allocation](https://github.com/sudanshu0029/DSA/tree/master/1386-cinema-seat-allocation) |
+| [1748-sum-of-unique-elements](https://github.com/sudanshu0029/DSA/tree/master/1748-sum-of-unique-elements) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/sudanshu0029/DSA/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/sudanshu0029/DSA/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Greedy
@@ -83,5 +85,6 @@ DSA solved problems
 ## Counting
 |  |
 | ------- |
+| [1748-sum-of-unique-elements](https://github.com/sudanshu0029/DSA/tree/master/1748-sum-of-unique-elements) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/sudanshu0029/DSA/tree/master/3005-count-elements-with-maximum-frequency) |
 <!---LeetCode Topics End-->
