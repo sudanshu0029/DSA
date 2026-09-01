@@ -18,6 +18,7 @@ DSA solved problems
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sudanshu0029/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0136-single-number](https://github.com/sudanshu0029/DSA/tree/master/0136-single-number) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/sudanshu0029/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0575-distribute-candies](https://github.com/sudanshu0029/DSA/tree/master/0575-distribute-candies) |
 | [1109-corporate-flight-bookings](https://github.com/sudanshu0029/DSA/tree/master/1109-corporate-flight-bookings) |
 | [1386-cinema-seat-allocation](https://github.com/sudanshu0029/DSA/tree/master/1386-cinema-seat-allocation) |
@@ -89,4 +90,8 @@ DSA solved problems
 | ------- |
 | [1748-sum-of-unique-elements](https://github.com/sudanshu0029/DSA/tree/master/1748-sum-of-unique-elements) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/sudanshu0029/DSA/tree/master/3005-count-elements-with-maximum-frequency) |
+## Binary Search
+|  |
+| ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/sudanshu0029/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
