@@ -9,6 +9,7 @@ DSA solved problems
 | [2235-add-two-integers](https://github.com/sudanshu0029/DSA/tree/master/2235-add-two-integers) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/sudanshu0029/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/sudanshu0029/DSA/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3875-construct-uniform-parity-array-i](https://github.com/sudanshu0029/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 ## Enumeration
 |  |
 | ------- |
@@ -27,6 +28,7 @@ DSA solved problems
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/sudanshu0029/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/sudanshu0029/DSA/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/sudanshu0029/DSA/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3875-construct-uniform-parity-array-i](https://github.com/sudanshu0029/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 | [3925-concatenate-array-with-reverse](https://github.com/sudanshu0029/DSA/tree/master/3925-concatenate-array-with-reverse) |
 ## Hash Table
 |  |
