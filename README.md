@@ -36,6 +36,7 @@ DSA solved problems
 ## Hash Table
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/sudanshu0029/DSA/tree/master/0141-linked-list-cycle) |
 | [0575-distribute-candies](https://github.com/sudanshu0029/DSA/tree/master/0575-distribute-candies) |
 | [1386-cinema-seat-allocation](https://github.com/sudanshu0029/DSA/tree/master/1386-cinema-seat-allocation) |
 | [1748-sum-of-unique-elements](https://github.com/sudanshu0029/DSA/tree/master/1748-sum-of-unique-elements) |
@@ -70,6 +71,7 @@ DSA solved problems
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sudanshu0029/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sudanshu0029/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0141-linked-list-cycle](https://github.com/sudanshu0029/DSA/tree/master/0141-linked-list-cycle) |
 ## Simulation
 |  |
 | ------- |
@@ -101,4 +103,12 @@ DSA solved problems
 | [0033-search-in-rotated-sorted-array](https://github.com/sudanshu0029/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/sudanshu0029/DSA/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sudanshu0029/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+## Linked List
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/sudanshu0029/DSA/tree/master/0141-linked-list-cycle) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/sudanshu0029/DSA/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
