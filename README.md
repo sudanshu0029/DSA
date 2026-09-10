@@ -26,6 +26,7 @@ DSA solved problems
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sudanshu0029/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0575-distribute-candies](https://github.com/sudanshu0029/DSA/tree/master/0575-distribute-candies) |
 | [1109-corporate-flight-bookings](https://github.com/sudanshu0029/DSA/tree/master/1109-corporate-flight-bookings) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sudanshu0029/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1386-cinema-seat-allocation](https://github.com/sudanshu0029/DSA/tree/master/1386-cinema-seat-allocation) |
 | [1652-defuse-the-bomb](https://github.com/sudanshu0029/DSA/tree/master/1652-defuse-the-bomb) |
 | [1748-sum-of-unique-elements](https://github.com/sudanshu0029/DSA/tree/master/1748-sum-of-unique-elements) |
@@ -39,6 +40,7 @@ DSA solved problems
 | ------- |
 | [0141-linked-list-cycle](https://github.com/sudanshu0029/DSA/tree/master/0141-linked-list-cycle) |
 | [0575-distribute-candies](https://github.com/sudanshu0029/DSA/tree/master/0575-distribute-candies) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sudanshu0029/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1386-cinema-seat-allocation](https://github.com/sudanshu0029/DSA/tree/master/1386-cinema-seat-allocation) |
 | [1748-sum-of-unique-elements](https://github.com/sudanshu0029/DSA/tree/master/1748-sum-of-unique-elements) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/sudanshu0029/DSA/tree/master/2799-count-complete-subarrays-in-an-array) |
@@ -114,4 +116,12 @@ DSA solved problems
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/sudanshu0029/DSA/tree/master/0141-linked-list-cycle) |
+## Sorting
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sudanshu0029/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sudanshu0029/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
