@@ -19,6 +19,7 @@ DSA solved problems
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/sudanshu0029/DSA/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sudanshu0029/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/sudanshu0029/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/sudanshu0029/DSA/tree/master/0035-search-insert-position) |
@@ -38,6 +39,7 @@ DSA solved problems
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/sudanshu0029/DSA/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/sudanshu0029/DSA/tree/master/0141-linked-list-cycle) |
 | [0575-distribute-candies](https://github.com/sudanshu0029/DSA/tree/master/0575-distribute-candies) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sudanshu0029/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
