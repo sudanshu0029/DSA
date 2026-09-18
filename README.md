@@ -48,6 +48,7 @@ DSA solved problems
 | [1748-sum-of-unique-elements](https://github.com/sudanshu0029/DSA/tree/master/1748-sum-of-unique-elements) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/sudanshu0029/DSA/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/sudanshu0029/DSA/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/sudanshu0029/DSA/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Greedy
 |  |
 | ------- |
@@ -72,6 +73,7 @@ DSA solved problems
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sudanshu0029/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [3340-check-balanced-string](https://github.com/sudanshu0029/DSA/tree/master/3340-check-balanced-string) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/sudanshu0029/DSA/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Two Pointers
 |  |
 | ------- |
