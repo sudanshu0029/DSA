@@ -7,6 +7,7 @@ DSA solved problems
 |  |
 | ------- |
 | [2235-add-two-integers](https://github.com/sudanshu0029/DSA/tree/master/2235-add-two-integers) |
+| [2769-find-the-maximum-achievable-number](https://github.com/sudanshu0029/DSA/tree/master/2769-find-the-maximum-achievable-number) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/sudanshu0029/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/sudanshu0029/DSA/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3870-count-commas-in-range](https://github.com/sudanshu0029/DSA/tree/master/3870-count-commas-in-range) |
