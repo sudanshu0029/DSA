@@ -73,6 +73,7 @@ DSA solved problems
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sudanshu0029/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [3340-check-balanced-string](https://github.com/sudanshu0029/DSA/tree/master/3340-check-balanced-string) |
+| [3498-reverse-degree-of-a-string](https://github.com/sudanshu0029/DSA/tree/master/3498-reverse-degree-of-a-string) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/sudanshu0029/DSA/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Two Pointers
 |  |
@@ -84,6 +85,7 @@ DSA solved problems
 ## Simulation
 |  |
 | ------- |
+| [3498-reverse-degree-of-a-string](https://github.com/sudanshu0029/DSA/tree/master/3498-reverse-degree-of-a-string) |
 | [3925-concatenate-array-with-reverse](https://github.com/sudanshu0029/DSA/tree/master/3925-concatenate-array-with-reverse) |
 ## String Matching
 |  |
