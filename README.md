@@ -6,6 +6,7 @@ DSA solved problems
 ## Math
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/sudanshu0029/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [2235-add-two-integers](https://github.com/sudanshu0029/DSA/tree/master/2235-add-two-integers) |
 | [2769-find-the-maximum-achievable-number](https://github.com/sudanshu0029/DSA/tree/master/2769-find-the-maximum-achievable-number) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/sudanshu0029/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -27,6 +28,7 @@ DSA solved problems
 | [0136-single-number](https://github.com/sudanshu0029/DSA/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sudanshu0029/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0575-distribute-candies](https://github.com/sudanshu0029/DSA/tree/master/0575-distribute-candies) |
+| [0628-maximum-product-of-three-numbers](https://github.com/sudanshu0029/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1109-corporate-flight-bookings](https://github.com/sudanshu0029/DSA/tree/master/1109-corporate-flight-bookings) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sudanshu0029/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1386-cinema-seat-allocation](https://github.com/sudanshu0029/DSA/tree/master/1386-cinema-seat-allocation) |
@@ -126,6 +128,7 @@ DSA solved problems
 ## Sorting
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/sudanshu0029/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sudanshu0029/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting Sort
 |  |
