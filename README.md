@@ -6,6 +6,7 @@ DSA solved problems
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/sudanshu0029/DSA/tree/master/0002-add-two-numbers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sudanshu0029/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [2235-add-two-integers](https://github.com/sudanshu0029/DSA/tree/master/2235-add-two-integers) |
 | [2769-find-the-maximum-achievable-number](https://github.com/sudanshu0029/DSA/tree/master/2769-find-the-maximum-achievable-number) |
@@ -119,6 +120,7 @@ DSA solved problems
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/sudanshu0029/DSA/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/sudanshu0029/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/sudanshu0029/DSA/tree/master/0141-linked-list-cycle) |
 ## Floyd's Cycle Finding Algorithm
@@ -134,4 +136,8 @@ DSA solved problems
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sudanshu0029/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/sudanshu0029/DSA/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
