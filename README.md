@@ -75,6 +75,7 @@ DSA solved problems
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sudanshu0029/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0856-score-of-parentheses](https://github.com/sudanshu0029/DSA/tree/master/0856-score-of-parentheses) |
 | [3340-check-balanced-string](https://github.com/sudanshu0029/DSA/tree/master/3340-check-balanced-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/sudanshu0029/DSA/tree/master/3498-reverse-degree-of-a-string) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/sudanshu0029/DSA/tree/master/3760-maximum-substrings-with-distinct-start) |
@@ -140,4 +141,12 @@ DSA solved problems
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/sudanshu0029/DSA/tree/master/0002-add-two-numbers) |
+## Stack
+|  |
+| ------- |
+| [0856-score-of-parentheses](https://github.com/sudanshu0029/DSA/tree/master/0856-score-of-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0856-score-of-parentheses](https://github.com/sudanshu0029/DSA/tree/master/0856-score-of-parentheses) |
 <!---LeetCode Topics End-->
